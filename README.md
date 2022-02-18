@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 languages and tools:
 
-![download](https://user-images.githubusercontent.com/93376968/154724133-a574b22f-acb8-459a-8915-e5268ffb9848.png)
+###### ![download](https://user-images.githubusercontent.com/93376968/154724133-a574b22f-acb8-459a-8915-e5268ffb9848.png)
 ![download](https://user-images.githubusercontent.com/93376968/154724311-0bafb69d-c1c4-4df8-8720-e4118462c6d4.png)
 ![download](https://user-images.githubusercontent.com/93376968/154724354-c74e5dcd-8455-4fe6-993a-92b6603f063f.png)
 ![download](https://user-images.githubusercontent.com/93376968/154724440-cb3ff186-02c4-4130-b00a-c0a23f72e01f.png)
