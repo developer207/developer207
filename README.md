@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about anything, releted Technology i am happy to help;...
 
-- 📫 How to reach me: ...
+- 📫 How to reach me: https://ashok-zarmariya.netlify.app/
 
 - ⚡ Fun fact: “A lot of people are afraid to say what they want. That’s why they don’t get what they want.”
 
