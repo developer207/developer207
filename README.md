@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Ashok A focused, full-stack web developer proficient in developing scalable and well-documented code. Capable of working on independent projects. Looking to prove h
+
 <!--
 **Ashokzarmariya/ashokzarmariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+languages and tools:
