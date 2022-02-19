@@ -42,6 +42,9 @@ Here are some ideas to get you started:
   
 </div>
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+
 
 ## languages and tools:
 
@@ -58,7 +61,7 @@ Here are some ideas to get you started:
 </div>
 
 
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ashokzarmariya&show_icons=true&theme=gotham" alt="Ashok" />
 
 
 
