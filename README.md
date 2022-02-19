@@ -1,10 +1,10 @@
-### Hi there 👋
-<a href="https://www.linkedin.com/in/ashok-zarmariya-473aa722a/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvKIFdMk5umY3SrYSr-hjD198Mkkk2Ozq1rg&usqp=CAU" width="30"> </a>
+### Hi there 👋 I'Am Ashok
 
 
 
 
-I'm Ashok A focused, full-stack web developer proficient in developing scalable and well-documented code. Capable of working on independent projects. Looking to prove his skills and talents in a challenging work environment.
+
+A focused, full-stack web developer proficient in developing scalable and well-documented code. Capable of working on independent projects. Looking to prove his skills and talents in a challenging work environment.
 
 <!--
 **Ashokzarmariya/ashokzarmariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
