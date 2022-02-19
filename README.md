@@ -14,23 +14,36 @@ Here are some ideas to get you started:
 
 
 -->
-
+<div class="flex">
+  <div>
+  
 - 🔭 I’m currently Work on MERN Technology
 
 - 🌱 I’m currently learning Nextjs, React Native and Three.js
 
-- 🤔 I’m looking for help with collaborate on OpenSource Contributions. Ping me, if you can guide me. Would be grateful
+- 🤔 I’m looking for help with collaborate on OpenSource Contributions. 
+  Ping me, if you can guide me. Would be grateful
 
-- 💬 Ask me about anything, releted Technology i am happy to help;...
-
-- 📫 How to reach me: https://ashok-zarmariya.netlify.app/
-
-- ⚡ Fun fact: “A lot of people are afraid to say what they want. That’s why they don’t get what they want.”
+- 💬 Ask me about anything, releted Technology i am happy to help;...  
+    
 
 
-languages and tools:
+- 📫 You can reach out to me by following platforms: 
+    
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ashok-zarmariya.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashok-zarmariya-473aa722a/)
+  
+
+- ⚡ Fun fact: 
+  “A lot of people are afraid to say what they want. 
+  That’s why they don’t get what they want.”
+</div>
+  
+  
+</div>
 
 
+## languages and tools:
 
 <div>
   <img src="https://user-images.githubusercontent.com/93376968/154724133-a574b22f-acb8-459a-8915-e5268ffb9848.png" width="48">
