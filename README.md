@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 - 📫 You can reach out to me by following platforms: 
     
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ashok-zarmariya.netlify.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashok-zarmariya-473aa722a/)
+  [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ashok-zarmariya.netlify.app/)
+  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashok-zarmariya-473aa722a/)
   
 
 - ⚡ Fun fact: 
