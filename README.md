@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashokzarmariya&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
 </p>
-<a href="https://github.com/ashokzarmariya/github-readme-activity-graph"><img alt="Sachin koli's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ashokzarmariya&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashokzarmariya/github-readme-activity-graph"><img alt="Ashok Zarmariya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ashokzarmariya&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <p align="center">
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
