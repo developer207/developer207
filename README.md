@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   
 - 🔭 I’m currently Work on MERN Technology
 
-- 🌱 I’m currently learning Nextjs, React Native and Three.js
+- 🌱 I’m currently learning blockchain 
 
 - 🤔 I’m looking for help with collaborate on OpenSource Contributions. 
   Ping me, if you can guide me. Would be grateful
