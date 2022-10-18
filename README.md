@@ -1,4 +1,4 @@
-### Hi there 👋 I Am Ashok
+### Hi there <img src="https://a.slack-edge.com/6c404/marketing/img/homepage/bold-existing-users/waving-hand.gif" width="30" height="30"/> I Am Ashok
 
 
 
