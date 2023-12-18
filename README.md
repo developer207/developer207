@@ -66,16 +66,16 @@ Here are some ideas to get you started:
  <p align="center">
     <h1> Github Status </h1>
 </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=developer207&show_icons=true&theme=gotham" alt="Ashok" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=developer407&show_icons=true&theme=gotham" alt="Ashok" />
   
   <p align="center">
-    <a href="https://github.com/developer207/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ashok Zarmariya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=developer207&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/developer407/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ashok Zarmariya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=developer407&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer207&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer407&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
 </p>
 
 
